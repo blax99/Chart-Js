@@ -10,5 +10,5 @@ Built a small dashboard with three chart types:
 
 Using react-chartjs-2 makes it super easy to integrate Chart.js into React apps. The charts are fully responsive, dynamic, and visually clean.
 
-![Chart Image](public\example.png)
+![Chart Image](public/example.png)
 
