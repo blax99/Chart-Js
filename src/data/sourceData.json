@@ -1,0 +1,15 @@
+[{
+    "label":"Ads",
+    "value":45,
+    "color":"rgba(255, 0, 0, 0.6)" 
+},
+{
+    "label":"Subscriptions",
+    "value":200,
+    "color":"rgba(0, 255, 0, 0.6)" 
+},
+{
+    "label":"Sponsorshps",
+    "value":296,
+    "color":"rgba(0, 0, 255, 0.6)" 
+}]
